@@ -1,0 +1,201 @@
+CustomerID,Name,DateOfBirth,Gender,Address,PhoneNumber,Email,AccountBalance,AccountType,LastTransactionDate
+5bc5f597-2471-4964-b6c9-dff0d2ae5606,Todd Evans,2005-05-23,Male,"0301 Barry Creek Apt. 453
+West Molly, CT 62796",+1-465-939-6007x17902,xbest@example.org,642118,Credit,2020-07-11
+58600b79-74f6-47ae-81b8-86f9d249c6bd,Sabrina Hunter,1990-09-24,Female,"952 Anne Lights Apt. 232
+North Jillbury, MO 82727",(612)396-3904,jconway@example.org,296367,Credit,2021-11-18
+79a352a0-1c2b-458a-8f26-044ea31d802d,Joshua Johnson,1959-07-29,Female,"96397 Jackson Plaza
+Lake John, VI 75584",480.675.7650x6473,brendafreeman@example.com,570084,Checking,2023-11-26
+b5ccff3a-29a6-4f07-9eef-428c3b150f6e,Theresa Levine,1964-07-16,Female,"501 David Forge Suite 357
+Stevenland, NM 53826",6683233659,cnewman@example.org,139946,Credit,2021-07-04
+547693d7-42fb-4dc6-996e-21b970106484,Aaron Richardson,1945-01-03,Male,"975 Barnes Flat
+Turnerside, MD 92334",932-717-6634x7266,sarahkim@example.org,124419,Checking,2024-04-11
+4550c327-80ff-4bc7-8fc0-63b5f23999d1,Daniel Powell,1958-01-13,Male,"USS Clark
+FPO AA 96559",(489)415-2604x188,hernandezryan@example.com,865124,Savings,2021-06-22
+2d2edd22-f9d9-4a59-b23c-23bb5a407583,Angela Mcintyre,1972-06-09,Male,"61163 Stacey Parkways Suite 156
+Conradfurt, NH 31822",001-567-861-7964x4082,brettle@example.net,593572,Credit,2020-03-31
+3c5c7011-40e8-4367-9955-a09e0c8c299a,Jason Gould,1989-07-20,Male,"PSC 6423, Box 2744
+APO AE 18324",675.992.7317x382,morgangutierrez@example.net,869362,Checking,2024-01-24
+ff2704d2-392a-45cc-8245-c162de2719ef,Nicole Mcneil,1982-02-27,Male,"857 Moore Village Apt. 401
+Reyeschester, WY 64070",(536)276-1185x420,nguyenjessica@example.net,46330,Checking,2020-07-06
+2bfb6b18-f629-4053-b73f-28b58dcd983f,Shirley Murray,1980-01-03,Female,"05688 Vaughn Rest
+Murrayland, CT 22154",682-970-9751x3973,christyhawkins@example.com,560601,Credit,2022-11-23
+7ddb5da2-7f30-480d-a0a5-d290af201f1f,James Lopez,1993-01-30,Female,"586 Ibarra Plains Apt. 976
+Port Jeromestad, MH 75574",(278)428-5777x8632,trevor65@example.net,472784,Credit,2024-02-22
+be437889-5a58-4c64-8090-ee2893dac576,Douglas Krueger,1991-01-24,Male,"USNV Khan
+FPO AP 02007",+1-389-346-6855x241,matthew05@example.org,604533,Credit,2022-01-20
+15deff30-39d8-4bb4-8f4b-65ac318a720a,Jill Lee,1986-05-11,Male,"91707 Juan Shore
+Hamiltonview, RI 32864",920-233-9809,sandraclark@example.org,609179,Credit,2022-06-23
+b4a3b43c-43f6-495d-8ed3-84fd4da3a1c6,John Barnett,1970-01-31,Male,"030 Anthony Streets Suite 236
+Mckenzieshire, LA 45412",001-336-430-6513x4750,alex80@example.org,499353,Credit,2021-12-25
+a68a3bf2-7fea-4ddc-9af4-4919ee235dda,Mike Pearson,1983-06-29,Male,"72186 Danny Haven Suite 444
+Michelleburgh, WI 98653",404.504.5947x23978,qvance@example.org,943701,Credit,2023-08-04
+c21e69de-8a89-44ab-8952-7fbc4f1c01cc,Jamie Horne,1980-12-04,Male,"030 Anderson Estates Suite 308
+West Cody, NC 81411",645.349.0233x5824,tyler56@example.org,326220,Credit,2022-02-21
+bac919bf-2807-4b48-b890-5b3c6a7c0379,Rhonda Jarvis,1961-01-06,Female,"092 Kenneth Crossing
+South Sharonbury, SD 59296",001-222-236-9448x67659,valenciamatthew@example.net,608768,Savings,2023-02-01
+3e02d150-cd8d-4536-abcd-354e6c4725c0,Robert Jarvis,1970-11-06,Male,"445 Parker Forges Apt. 210
+Cooperhaven, MI 47435",+1-611-608-9198x3191,robinstafford@example.com,983558,Checking,2024-04-25
+adb9762b-4bc4-4634-a4b5-5a6df812b6ab,Gregory Stephens,1990-02-11,Male,"286 Barbara Well
+Amyburgh, PW 35608",001-835-605-0450x4843,anna48@example.com,880806,Checking,2021-04-17
+0545af14-062e-4d2f-b630-23371c5fbd05,Steven Rodriguez,2004-02-15,Male,"59048 Williams Vista Apt. 433
+Port Morgan, CO 28658",(882)922-0345x49073,smithsarah@example.org,173321,Savings,2022-09-14
+c3a0af83-b157-4800-acb5-7d7893ae5d6d,Charles Benjamin,1955-10-30,Female,"9447 John Grove
+Rodriguezfurt, NH 52997",864-200-5316x787,jeffreycarney@example.com,416357,Credit,2024-04-18
+226efc8b-9b1c-461e-b7e0-4226cb918bd9,Tyler Carr,1951-02-11,Female,"3947 Collins Falls Apt. 854
+Fernandezfort, AR 38446",487-920-7778,twilliams@example.net,45305,Credit,2021-01-18
+5d5c7166-ded8-4430-8e91-f6cf84ee69a2,Jennifer Olson,1997-08-05,Male,"687 Raven Turnpike Suite 659
+East Saratown, NE 57976",+1-957-409-3700,dlove@example.org,716486,Checking,2023-08-05
+3aceb104-7325-49b1-9f5c-8cfa90425cb5,Jane Chavez,1980-01-05,Female,"10473 Justin Ramp
+Lake Jeremyville, OR 19386",409.716.5426,tonimason@example.com,421439,Savings,2024-03-29
+3142ad16-48a8-4932-8dfe-dec5ba5b34cb,Betty Ross,1978-02-09,Female,"8997 Ford Freeway Suite 298
+New Jesseberg, FM 09832",5476896123,ismith@example.org,441517,Savings,2024-07-16
+a127ece2-1542-46c0-a954-9c484beb34f9,Melissa Stewart,1946-03-28,Male,"2485 Brittany Prairie
+Melissaport, SD 24952",+1-299-687-0812,jill24@example.org,76937,Savings,2023-05-31
+7456d33e-5349-4269-813e-b4af57f2347c,Daniel Lopez,1943-12-11,Male,"863 Michael Lane Apt. 529
+Destinyborough, IN 30844",(545)616-9940,karlwood@example.net,448023,Credit,2021-11-26
+aa4cb727-ce67-4f5a-81ab-2c6d4c55d213,Chad Thompson,2006-05-02,Female,"04804 King Turnpike
+Adamsburgh, NJ 21183",(240)446-5174,gary99@example.org,60151,Checking,2021-09-14
+246f79ae-a7b3-4ab2-943b-2e2a55057725,David Gutierrez,1986-02-04,Female,"2054 Powers Mission
+Port Melissabury, AZ 50101",234.645.1982x99096,paulajacobs@example.org,454107,Credit,2020-08-03
+538fb13f-1dbd-41f4-87af-a5bc91373e69,Richard Mcintyre,1945-06-14,Female,"047 Benjamin Mews Apt. 645
+Maryfurt, OR 39138",789-363-5490x9100,webbkevin@example.org,714583,Savings,2023-06-30
+abbfb60f-8535-4233-8895-9ef6039d5fd8,Matthew Moore,2000-07-09,Female,"732 Miller Ways Apt. 812
+East Timothyhaven, UT 40738",310.316.3403x971,michelewiggins@example.org,318937,Credit,2021-02-18
+89391fc7-6ba8-454e-a878-f1ccdef8ac1f,Richard Johnson,1960-05-21,Male,"369 Harrison Fords Suite 461
+Ballhaven, AK 13464",001-846-689-9670x62615,jessica80@example.com,77787,Checking,2024-01-21
+34e24c75-3165-4fc4-97b5-53637ce81a0f,Daniel Rodriguez,1974-07-10,Male,"USNS Brennan
+FPO AP 85669",+1-660-605-0303x06505,maxwelltaylor@example.com,430420,Checking,2021-02-24
+55ae89ff-fd11-4310-bf39-6b7448aa4bd7,Jacob Jackson,1944-07-03,Female,"134 Bennett Islands Apt. 724
+Dorothyburgh, MO 53479",459.761.3968x954,vphelps@example.org,26361,Savings,2021-05-19
+d660b1f8-6f45-492c-9744-7d711c1f27ec,Katherine Roberts,2003-12-01,Male,"Unit 1205 Box 9190
+DPO AP 25338",(474)954-5919x66136,wjones@example.net,605307,Credit,2021-04-10
+9904d9ce-ebf0-4403-a14f-95294680e4a9,Matthew Hall,1947-08-28,Male,"Unit 0494 Box 6090
+DPO AP 34607",932-805-1840,nancy70@example.com,399132,Checking,2020-04-28
+4c95f5eb-e065-4e3d-8d73-add96b5148ec,Michelle Gonzalez,1957-03-25,Male,"561 Katrina Lights Suite 682
+Schneiderburgh, MS 78848",648.251.6663,hwilson@example.org,859801,Checking,2023-02-26
+49597b69-e0a0-471b-bd32-470ad1e7377d,Terrence Moore,1953-04-19,Female,"3855 Richard Expressway Apt. 298
+North Amber, KY 91291",(422)394-8865,scottmahoney@example.net,998949,Savings,2023-09-04
+b04e6e8e-baad-4084-ad56-19ab3ae20c64,Michelle Jones,1994-08-22,Female,"Unit 1003 Box 4707
+DPO AA 35481",202.875.5830,diana16@example.net,826441,Savings,2020-12-02
+4b1c6ee4-88e6-4e96-b895-22b8610b845c,Robert Palmer,1982-05-14,Female,"3864 Michael Harbors Apt. 571
+Barbaraville, NC 75188",001-855-904-8471x71782,aterry@example.org,68210,Checking,2024-07-14
+a1aa098f-b310-4a22-8311-14ffed08ddf7,Mathew Lopez,2005-05-10,Male,"4988 Bradford Alley Apt. 051
+West Cynthia, SD 95878",300-292-5352,joshua28@example.org,223916,Checking,2022-10-05
+0b26ded7-dcb4-4fc9-a86a-0388e6b5fb11,Barbara Harvey MD,1965-09-18,Male,"259 Nicholas Rapids
+West Davidchester, IA 16151",+1-607-433-2353x084,garyjohnson@example.net,151260,Savings,2020-03-27
+36587853-4242-4c3c-aefa-160a90e6b51f,John Knight,1947-09-08,Female,"64529 Boyd Mission
+Oconnorstad, OR 22748",803.772.8198,brandigraham@example.com,853,Credit,2022-06-20
+d794c8c4-f78d-406a-b8b1-4f99cb22a080,Holly Gutierrez,1943-12-13,Female,"144 Melton Oval
+East Taylor, UT 52930",782-730-3986x230,randallkevin@example.com,536143,Savings,2021-03-31
+99beb469-6b92-44e1-b7e7-78ce242a6f28,Angela Castaneda,2003-01-13,Male,"0534 Sharon Fort
+Wilsonside, AR 13796",(786)929-2152x0469,erin53@example.com,501478,Credit,2024-03-10
+5f477535-f8c8-4018-ad13-289b7544a850,Melissa Kelly,1967-10-13,Female,"Unit 5267 Box 3269
+DPO AA 81514",001-337-498-2923,ericksonheather@example.com,270973,Savings,2021-01-18
+95ab7661-734e-4440-abd5-e8e094165f1d,David Nichols,1945-10-18,Male,"095 Ramirez Island Apt. 350
+New Thomasside, KY 77963",636-367-3382x00408,salinasdana@example.net,850134,Credit,2024-06-01
+6018b050-9c38-4867-851b-e5928dbf5c7f,Carrie Wilson,1947-01-01,Male,"0705 Cross Centers
+Aguilartown, FL 52608",001-585-273-5735x11693,rparker@example.org,990044,Credit,2024-08-04
+a9ca1f5d-dd2c-4b81-bb96-081eb573a391,Phillip Griffin,1947-08-28,Female,"9789 Emily Prairie Apt. 605
+Kristenview, NE 15239",831.716.0097x2232,watersbrittney@example.com,180945,Checking,2021-05-21
+2adede3e-488b-49b4-8db7-e19845e5c9e3,Jessica Garcia,1971-06-05,Male,"87386 Riley Cliffs
+Richardstown, TN 53351",9949182944,connie32@example.org,540299,Credit,2020-06-29
+7c8d963f-ded8-47f8-97b7-f57c6debb593,Brian Blanchard,1982-02-09,Male,"955 Katherine Plains Suite 840
+Palmerchester, IA 70621",+1-690-406-3017x77250,robertsrobert@example.com,448026,Checking,2023-10-15
+908d99b7-b4a6-48da-8205-09b4a6bbe687,Cindy Mcconnell,1959-03-03,Female,"19823 Norman Via
+Jarvisstad, NJ 96900",844-363-9149,bhendricks@example.org,223270,Checking,2022-01-09
+d6eed4c5-a5d6-4c44-952e-0bcf1a4fa338,Allison Compton,1944-11-24,Male,"9020 Richardson Run
+Jefferystad, ID 91822",+1-972-631-0218x145,kennethjuarez@example.com,730565,Checking,2021-02-20
+6019aefe-944a-4593-ad28-a7a94aebd2d8,Bradley Carter,2000-01-23,Male,"7624 Nicholas Plaza Suite 061
+Wyattside, OK 76960",213-312-9629x4304,anneperry@example.com,901972,Checking,2023-04-04
+f56812d8-d929-4b96-ac0f-6efad8e2769c,Spencer Lopez,1996-03-05,Female,"194 Martin Trafficway
+South Kaylaburgh, GU 28911",(679)250-8432x4939,smithgregory@example.com,672015,Credit,2022-10-14
+e61d3f33-9534-4124-9285-c3ac91ed1846,Alice Calderon,1967-10-06,Male,"05776 Simon Crossing
+Watersburgh, AZ 72515",001-774-929-8726,edwardjordan@example.org,860431,Checking,2022-09-19
+6a005ffd-f5e4-41f5-88f4-36f353191459,Gwendolyn Long,1978-03-18,Female,"1001 Erin Valleys Apt. 832
+Jesseberg, WV 46571",(214)885-4482x6466,ellislisa@example.com,469718,Checking,2022-02-09
+68eb5926-a285-473a-8a83-babc5af9fd7c,Carol Acevedo,1945-04-23,Female,"5536 Oneill Loop Apt. 623
+New Katelynmouth, MS 08550",(736)208-1006x93369,rosemitchell@example.net,266455,Savings,2022-12-04
+b822d9ec-67d9-4fbe-95e9-c932224adf8a,Anthony Hernandez,1990-02-12,Male,"6243 Hicks Flats
+Valerieberg, IL 37782",(457)282-5597x6593,jasminesmith@example.net,920950,Savings,2022-10-18
+5e3faf3c-bc67-4b6a-88e2-b76c32fceef5,Thomas Barker,1992-10-01,Male,"334 Dixon Forge Apt. 670
+North Cheryl, VA 13682",+1-223-744-5910x92297,mjacobs@example.org,209830,Credit,2023-01-27
+cd6ad2f9-74f1-45a1-83fc-49479631c5e7,Patrick Grant,1999-05-26,Female,"7483 Steve Haven
+North Lindabury, SC 99696",(209)504-8324,angelalang@example.net,318123,Savings,2023-12-10
+5ec747ae-0fc2-4595-8f63-e5a45764b0e0,Paul Morris,1964-01-01,Male,"92409 Wagner Underpass Suite 159
+Gutierrezview, MN 08431",(975)496-6467x7479,jonesharry@example.org,671873,Savings,2022-10-19
+c578fd7e-08f5-485a-b634-814f083c0a45,Danielle Nelson,1997-10-27,Female,"87764 Rachel Pine
+Kimburgh, ND 05072",001-372-326-0889,amyrichardson@example.com,357274,Checking,2021-10-14
+047fac68-e5ae-4288-be18-29b4fdc54a40,Kimberly Lawrence,1996-05-28,Female,"022 Walker Brooks
+Whiteberg, PR 04831",+1-222-563-7185,douglasbaker@example.org,357592,Checking,2024-08-01
+c72deeca-2dca-4e5b-bb7f-722480622712,Brian Howell,1990-09-11,Female,"8758 Adam Cliff
+East Derrick, PR 14262",001-804-429-7111x27162,handerson@example.com,567209,Credit,2021-03-21
+c39412ed-b9ad-496e-a2eb-098127c3a7e1,Marisa Reid,1970-12-11,Male,"74988 Annette Loaf
+East Laura, AZ 71483",629.588.8581x203,julia29@example.org,164588,Savings,2021-01-29
+5ed078f1-5bf8-4cbc-adc5-f251f2ffeb3c,April Perkins,1966-05-09,Female,"4955 Wendy Court Suite 545
+New Jacobmouth, AK 90845",001-572-967-9224,jasonfernandez@example.net,866812,Credit,2021-08-25
+031ccb8a-20f6-45c3-a841-3bd48869e223,Alexis Duke,1948-06-30,Male,"9140 Timothy Summit Apt. 529
+New Tonyaton, PA 76917",8873005926,denisezuniga@example.net,893471,Credit,2021-08-25
+f7d9862c-eee9-4a49-87ca-ddb87c332cc0,Kerri Wright,1992-08-03,Female,"465 Stephens Forest Apt. 576
+Marieport, MO 32911",(482)832-3536,amandabeck@example.org,891804,Checking,2023-11-19
+b7582886-8dcd-45e2-993f-f98023e3ce1c,Johnny Jones,1957-12-28,Male,"PSC 6470, Box 8675
+APO AE 03570",871-351-4369x4715,nmontoya@example.org,810893,Savings,2023-08-31
+dbea3e9a-a754-414a-bed2-cc636231c8ca,Edward Wade,1963-05-24,Female,"21507 Ryan Parkways
+New Patrickstad, MA 62278",(693)407-2092x930,turnerchase@example.com,890739,Credit,2024-07-22
+7fc3c38d-3f2b-4ac2-935d-2529a35a8485,Trevor Marshall,1944-04-22,Female,"25487 Ryan Plain
+New Howardview, MS 31714",728-477-7391,jill57@example.org,423374,Checking,2023-12-12
+ac8e3e89-dee5-47fc-8d98-af02fee0a649,Samuel Phillips,1990-06-03,Male,"2624 Riley Hill
+North Troy, MA 17966",(864)944-5532x12367,hernandezkrista@example.com,150831,Savings,2023-03-18
+5f0b7716-6e8a-41c6-bb09-859cd89a1ae7,Christopher Sanders,1954-08-14,Male,"449 White Cove Suite 012
+East Mary, NY 35172",(828)803-0311x531,kristianderson@example.net,698338,Checking,2023-05-14
+0d0ad645-0790-4998-bfaf-26613e25b8af,Virginia Whitney,1963-07-10,Male,"0041 Bush Greens
+Port Jacobside, MO 45798",(318)562-7845,jonestracey@example.org,319880,Checking,2021-07-20
+2028a971-52ed-4ed8-b0d9-b9edfab9eacc,Terri Decker,1969-07-24,Female,"665 Samantha Estate Apt. 640
+Danielport, OH 95496",733.215.6194x1955,sullivankristopher@example.com,76891,Credit,2022-05-10
+63a2aaa5-3760-408e-bcd3-58c7fa4bd84a,Michelle Baldwin,1958-02-18,Male,"393 Collins Glen Suite 474
+Karenside, SC 98673",(549)517-7588x724,susan48@example.net,593167,Credit,2022-08-04
+49276384-c19b-48ca-9b50-7b98d7bbd2cf,Brandon Paul,1989-08-23,Female,"7066 Adam Fords
+Martinville, MA 12858",+1-946-586-4053x631,figueroajennifer@example.org,578799,Savings,2020-04-28
+a66a340d-a4b5-4b0e-96f9-a01437cd9113,Tracy Duncan,1996-04-17,Female,"USNS Morales
+FPO AA 37561",001-627-280-7488x143,chelsea19@example.com,948359,Savings,2024-04-08
+2de9094a-bd87-442f-81e3-b1bada728574,Megan Kennedy,1963-07-10,Male,"409 Melissa Expressway Suite 938
+New Patrick, NE 54286",(881)362-0305x29545,mcgeejames@example.com,555628,Credit,2023-04-07
+c9a1ae25-1eb1-4ab3-af8a-c14c6de47027,Jacqueline Morales,1988-05-10,Female,"Unit 4519 Box 7593
+DPO AP 52955",+1-937-300-7455x409,michael14@example.com,368967,Checking,2020-03-04
+b7af113f-50cd-4423-91f7-9d1a383084dd,Felicia Wheeler,1989-09-06,Female,"00379 Michael Brooks
+Allenstad, VA 17887",452-249-7348x72432,michael18@example.com,666520,Savings,2020-04-30
+c57d18fe-7d1a-4bf6-82b4-926744a699a2,Lisa Gross,1967-08-23,Male,"Unit 7625 Box 3542
+DPO AA 40962",(294)931-2832x727,sanderschristopher@example.com,188801,Savings,2024-03-29
+f626eed6-f96c-4222-a4b9-278ff81dddc9,Justin Williams,1992-12-31,Female,"PSC 7363, Box 5908
+APO AA 97849",(721)796-3963,jamie34@example.org,955316,Credit,2021-12-08
+c6a8db27-30c5-4c41-b439-3681b5a815ee,Michael Robinson,1986-11-17,Male,"4236 Walker Drive Apt. 222
+New Rachelside, VA 37884",001-955-884-2260x7161,taylorweaver@example.com,732846,Savings,2020-04-30
+bc7030f5-2217-4c74-b2a7-140b216c791f,Corey Prince,1974-01-29,Male,"12507 Mary Creek
+Lake Roberttown, NV 86712",+1-452-882-3554x936,fieldssharon@example.org,161431,Credit,2022-12-20
+dbf977bd-5fe6-41bd-b6ea-6df0568f8f3a,Nathaniel Garrison,1966-04-16,Male,"USNS Smith
+FPO AP 03344",688-940-7660,lyonsjames@example.org,647348,Checking,2024-07-12
+91742eb7-68e5-47cf-b353-d7f1ce013401,Veronica Cannon,1961-10-23,Male,"4964 Dave Circle
+New Laurie, UT 15532",966.740.6850x990,jennifer63@example.net,164096,Savings,2021-04-21
+8f101a2e-8ae1-4e77-bdef-963d089f1a6e,Amy Woods,1950-06-06,Male,"698 Rebecca Springs Apt. 639
+Lake Ronnieville, AS 03386",001-463-264-9323x8703,ucruz@example.net,685124,Savings,2020-06-15
+12326052-d786-4c9f-bdbc-f2d337f185b4,Troy Jones,1967-04-12,Male,"07036 Nielsen Land
+Port Jenniferbury, MI 86417",+1-402-582-1476,maria31@example.org,444092,Savings,2023-05-04
+fc6e9288-8afa-4aef-9426-b5de0b485c90,Jamie Marshall,1980-09-26,Male,"01452 Jon Pass
+Dicksonshire, NY 01732",(682)378-6482x53140,stephenfranco@example.net,272155,Savings,2020-02-10
+8b7c90ca-d994-4fa8-a632-79fc1ac717b8,Emma Wright,1962-07-11,Female,"2134 Matthew Gateway Apt. 444
+Brooksville, IL 10112",426.529.0064x316,cunninghambrandon@example.net,745346,Savings,2022-07-15
+f7480ad1-1780-4b4c-91b7-8db2528b8b17,Krystal Chapman,2003-06-15,Male,"1276 Cruz Branch Suite 751
+South Michaelhaven, WY 49006",001-520-486-4698,cfreeman@example.com,20506,Credit,2021-05-02
+89f3ff16-e402-4bea-bf27-294b70da369a,James Jarvis,1973-03-14,Male,"1402 Veronica Lodge Suite 990
+East Susan, KS 62842",229.400.8783x324,hendersonjoshua@example.com,210280,Savings,2023-07-26
+0d8c5190-c73f-45e8-8f56-1229bafb9316,Glenda Wilcox,1969-09-08,Male,"196 James Inlet
+Port Jamesside, DC 65739",001-764-444-4298x9937,charlesguerrero@example.net,126459,Savings,2020-12-22
+ef7369ae-81bf-4115-8cb9-f35db5dd6924,Cindy Bradford,1999-01-12,Male,"4879 Howell Cliff Apt. 394
+Farleyview, VI 53848",001-581-978-3761x3788,zgomez@example.net,60357,Credit,2022-08-17
+9c87bf5b-a10d-487a-be3b-b620e1769d0f,Jake Oconnell,1964-09-05,Female,"5615 Erin Fort
+Riceton, MA 01020",+1-835-202-8637x40813,yferguson@example.net,918584,Checking,2024-02-14
+60bf7f1a-8892-40d2-bf5a-8f84b50097cd,Cody Spencer,1990-11-07,Female,"9601 Lisa Skyway Apt. 946
+Wilkinstown, TX 57274",+1-400-517-7048,tjones@example.net,608547,Savings,2020-02-29
+060c3003-dd0c-4dfb-971f-84468d764a27,Mary Martin,1946-08-24,Female,"51122 Kristin Land Suite 751
+East Kellyberg, AK 32683",246-419-2181,shawnmartin@example.net,427821,Checking,2020-11-22
+d83bfe9f-284b-453a-858f-34d769ab9fa2,Julie Coleman,1974-03-29,Male,"USCGC Jones
+FPO AA 01111",581-303-0630,allenmorris@example.net,259594,Checking,2022-09-23

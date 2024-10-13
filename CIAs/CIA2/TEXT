@@ -1,0 +1,21 @@
+You have access to historical stock price real time data for the NIFTY-50 index, which represents the top 50 companies listed on the National Stock Exchange of India. Your task is to perform a time series analysis of the past 12 months data to gain insights and make predictions. Explore the NiFTY-50 stock data, identify trends, and build predictive models to forecast stock prices. Answer all the questions relevant to the dataset provided
+1 Data Exploration:
+    How would you handle missing values in the dataset? Explain different imputation techniques and their suitability for the given time series dataset.
+    Visualize the dataset using line charts, scatterplots and histograms
+
+2 Stationarity Check:
+    Ensure the esxtracted time series data is stationary by performing the Augmented Dickey Fuller(ADF) or Kwiatowski-Philips-Schmidt-Shin(KPSS) test and give your interpretation
+    If not stationary, take the necessary action
+
+3 Model Selection and Evaluation
+    Make predictions for the last month and assess accuracy. Consider visualizing actual vs predicted values
+    Evaluate model performance using metrics like Mean Absolute Error(MAE) or Root Mean Squared Error(RMSE)
+    Explain the difference between ARIMA and SARIMA models. When would you prefer one over the other
+
+4 Forecasting
+    Forecast the stock price for the next One month
+    Plot the forecasted values and the original time series data to visualize the forecast
+
+5 Interpretation
+    Explore the components of time series data. Are there any significant trends or seasonality patterns?
+    How well does the model forecast future stock prices?
